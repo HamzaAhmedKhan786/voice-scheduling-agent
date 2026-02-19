@@ -24,6 +24,21 @@ The system is built on a **Three-Tier Architecture**:
 
 ---
 
+## 📸 Proof of Work (Screenshots)
+
+Since the backend fulfillment requires my local server to be active via Ngrok, I have documented the successful integration below. All demonstration images are located in the `TASK-01-Vikara-AI` directory.
+
+| **Voice Transcript & Intent** | **Google Calendar Event** |
+| :--- | :--- |
+| ![Transcript](./TASK-01-Vikara-AI/transcript.png) | ![Calendar](./TASK-01-Vikara-AI/calendar.png) |
+| *Riley extracting name and time.* | *The resulting event in Google Calendar.* |
+
+### 🖥️ Backend Execution Logs
+![Logs](./TASK-01-Vikara-AI/logs.png)
+*Terminal logs confirming the successful 200 OK response from the Google Calendar API.*
+
+---
+
 ## 🛡️ Security & DevOps
 
 * **Credential Protection:** Successfully implemented **GitHub Push Protection** and `.gitignore` strategies to ensure `credentials.json` and `.env` files are never exposed in the public history.
