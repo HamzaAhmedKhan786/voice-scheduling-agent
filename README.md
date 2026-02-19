@@ -1,5 +1,7 @@
 # Vikara AI: Voice-Driven Appointment Scheduler 🎤📅
 
+### 🔗 [Live Demo Website](https://HamzaAhmedKhan786.github.io/voice-scheduling-agent/)
+
 **Vikara AI** is an intelligent voice assistant designed to bridge the gap between natural human conversation and structured digital scheduling. By leveraging Large Language Models (LLMs) and real-time audio streaming, this agent can autonomously understand user intent and manage a Google Calendar.
 
 ---
