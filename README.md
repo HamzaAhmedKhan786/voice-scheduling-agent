@@ -33,7 +33,7 @@ Since the backend fulfillment requires my local server to be active via Ngrok, I
 | **Voice Transcript & Intent** | **Google Calendar Event** |
 | :--- | :--- |
 | ![Transcript](./TASK-01-Vikara-AI/transcript.png) | ![Calendar](./TASK-01-Vikara-AI/calendar.png) |
-| *Riley extracting name and time.* | *The resulting event in Google Calendar.* |
+| *Alex extracting name and time.* | *The resulting event in Google Calendar.* |
 
 ### 🖥️ Backend Execution Logs
 ![Logs](./TASK-01-Vikara-AI/logs.png)
